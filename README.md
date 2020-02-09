@@ -1,8 +1,7 @@
 # Sparrowatch
 Intelligent camera software designed for the use on a Raspberry Pi 3 Model B+ and the Intel Movidius Neural Compute Stick
 
-# Author    **Paul Banahan**
-## Chief Technology Officer SparroWatch Limited
+# Author and owner    **Paul Banahan**
 ### 27th March 2019
 
 ## Description of the Software
