@@ -1,0 +1,15 @@
+
+{
+	"Device_ID":						"Device B - BarDoor Entrance",
+	"resolution": 						[1280, 720],
+	"Email_Waiting_Time_minutes":		5,
+	"Email_To_Be_Notified": 			["kenneth.doherty@cerebreon.com", "gillian.doyle@cerebreon.com"],
+	"Heartrate":						5,
+	
+	"Operation_Start_Time": 			["10", "45", "00"],
+	"Notification_Start_Time": 			["10", "30", "00"],
+	"Notification_Stop_Time": 			["09", "00", "00"],
+	"Operation_Stop_Time": 				["09", "30", "00"],
+	
+	"Data_Retention_Duration":			30
+}

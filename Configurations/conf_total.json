@@ -1,0 +1,32 @@
+{
+	"Debugger":						false,
+	"Start_Time":					0,
+	"End_Time":						1,
+	"Display_Video_Stream":			true,
+
+	"Longitude":					-6.280204,
+	"Latitude":						53.355914,
+
+	
+	"USE_WIA": 						false,
+	"USE_AWS": 						false,
+	"Email_Alerts": 				true,
+	"AWS_Access_Token":				["AKIAIXJCLYPH4IEP7K4Q"],
+	"AWS_Secret_Access_Token":		["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"],
+	"WIA_Token":					["d_sk_nKr1rKF3j6V9oxL97jOxymZG"],
+	"Email_Address": 				["paulbanahan@sparrowatch.com", "pauljbanahan@gmail.com"],
+	"Email_Wait_Time_in_minutes":	1,
+
+   	"Heartbeat_rate": 				1,
+   	"Confidence_Factor": 			0.35,
+   	"picamera": 					0,
+	"Email_Wait": 					120,
+	"min_upload_seconds": 			10,
+
+	"delta_thresh": 				5,
+	"min_motion_frames":			5,
+	"blur_size": 					[21, 21], 
+	"resolution": 					[1280, 720],
+	"fps": 							30,
+	"min_area": 					500
+}
