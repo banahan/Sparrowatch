@@ -830,7 +830,7 @@ def Reboot_UserButton():
 ####################################################	
 def Send_Alert_Email(End_User_Email, Frame_Path, Frame_Count, Person_Countr, Device_ID):
 	gmail_user      = 'Sparrowatch.alert@gmail.com'
-	gmail_password  = "Sparrow2017"
+	gmail_password  = "S_________7" 	## Email Addresses Pasword
 	to              = End_User_Email
 	#to              = ' , '.join(to)
 	to              = str(to)
